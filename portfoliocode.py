@@ -8,3 +8,4 @@ import holoviews as hv
 from tqdm import tqdm
 #Historical Data
 import investpy
+
